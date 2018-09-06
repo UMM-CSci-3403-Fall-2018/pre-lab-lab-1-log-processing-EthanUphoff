@@ -1,0 +1,3 @@
+(\S*), (\S*)
+I am (\S*). My favorite sandwich is (\S*).
+sandwich with (\S*) (.*)
